@@ -12,9 +12,9 @@ app.use(bodyParser.json());
 
 app.use('/api/', personaRoutes);
 
-
 app.get('/', (req, res) => {
-    res.send({ message: "Hola Mundo"});
+    res.send({ message: "Prueba de estado del servicio - Ruta Raiz"});
 });
 
-app.listen(PORT, () => console.log(`App listening on PORT ${PORT} `));
+app.listen(PORT, () => console.log(`Aplicación lista y escuchando por el puerto: ${PORT} `));
+
