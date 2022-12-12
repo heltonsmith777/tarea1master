@@ -7,11 +7,10 @@
 1) > [OK] Instalar un IDE en vuestra máquina. 
 2) > [OK] Crearse un perfil de GitHub
 3) > [OK] Crearse un repo personal en GitHub
-4) > [OK] Desplegar una base de datos de MongoDB en un container de Docker con
-5) > [OK] persistencia. 
-6) > [OK] Crear una API sencilla con Nodejs
-7) > [OK] Dockerizar la API del punto 5
-8) > [OK] Subir a un repo público de GitHub el repositorio creado para realizar el punto 5 y 6.
+4) > [OK] Desplegar una base de datos de MongoDB en un container de Docker con persistencia
+5) > [OK] Crear una API sencilla con Nodejs
+6) > [OK] Dockerizar la API del punto 5
+7) > [OK] Subir a un repo público de GitHub el repositorio creado para realizar el punto 5 y 6.
 
 
 ### Importante: ### 
