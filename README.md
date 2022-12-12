@@ -47,3 +47,9 @@
 
 #### Crear nueva persona [POST] ####
 > localhost:4000/api/crearPersonas
+
+#### Borrar persona [DELETE] ####
+> localhost:4000/api/borrarPersona
+
+#### Actualizar persona [PUT] ####
+> localhost:4000/api/actualizarPersona
