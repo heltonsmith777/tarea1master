@@ -1,6 +1,7 @@
 # tarea1master - Helton Bustos #
 ## 221131770_61 Bootcamp: Tecnologías para el desarrollo web ##
 
+![Image text](https://github.com/heltonsmith777/tarea1master/blob/main/evimg/visual%20studio%20code%20con%20desktop.jpg)
 
 ### Ejercicios a realizar: ### 
 1) > [OK] Instalar un IDE en vuestra máquina. 
@@ -28,11 +29,15 @@
 
 ### Comandos: ###
 
+![Image text](https://github.com/heltonsmith777/tarea1master/blob/main/evimg/Docker%20compose.jpg)
+
 1) Ejecutar DockerCompose
 > docker-compose up -d
 
 2) Eliminar contenedores (probar persistencia de datos) [para reinicarlo]
 > docker-compose down
+
+![Image text](https://github.com/heltonsmith777/tarea1master/blob/main/evimg/Docker%20Desktop%20iniciado.jpg)
 
 ### RUTAS: ###
 #### Verificación de salud del servicio [GET] ####
