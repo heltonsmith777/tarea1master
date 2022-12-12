@@ -9,10 +9,10 @@ function _connect(){
     mongoose.connect(URI, { useUnifiedTopology: true, family: 4}).
     then(
         () => {
-            console.log('connection db ready to use');
+            console.log('Conexión a la BD lista para usar');
         },
         (err) => {
-            console.log(`conexion error ${err}`);
+            console.log(`Error de conexión ${err}`);
         }
     )
 }
