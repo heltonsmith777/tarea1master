@@ -2,6 +2,17 @@
 ## 221131770_61 Bootcamp: Tecnologías para el desarrollo web ##
 
 
+### Ejercicios a realizar: ### 
+> [OK] Instalar un IDE en vuestra máquina. 
+> [OK] Crearse un perfil de GitHub
+> [OK] Crearse un repo personal en GitHub
+> [OK] Desplegar una base de datos de MongoDB en un container de Docker con
+> [OK] persistencia. 
+> [OK] Crear una API sencilla con Nodejs
+> [OK] Dockerizar la API del punto 5
+> [OK] Subir a un repo público de GitHub el repositorio creado para realizar el punto 5 y 6.
+
+
 ### Importante: ### 
 #### Se crearon los siguientes tres servicios en un contenedor Docker a traves de **Docker Compose** ####
 1) API NodeJs
