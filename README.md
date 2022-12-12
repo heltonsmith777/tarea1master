@@ -39,6 +39,9 @@
 ![Image text](https://github.com/heltonsmith777/tarea1master/blob/main/evimg/Docker%20Desktop%20iniciado.jpg)
 
 ### RUTAS: ###
+
+![Image text](https://github.com/heltonsmith777/tarea1master/blob/main/evimg/POSTMAN.jpg)
+
 #### Verificación de salud del servicio [GET] ####
 > localhost:4000/
 
